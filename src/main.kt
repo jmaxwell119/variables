@@ -1,5 +1,4 @@
 fun main(){
-    val myString= "Woof"
     val myByte = 122
     val myShort = 14442
     val myInt = 5222222
@@ -9,7 +8,7 @@ fun main(){
     val myBoolean = true
     val myChar = '#'
 
-    println("This is a string: $myString")
+
     println("This is a byte: $myByte")
     println("This is a short: $myShort")
     println("This is an int: $myInt")
